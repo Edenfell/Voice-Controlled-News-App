@@ -1,0 +1,21 @@
+#root, html, body {
+  height:100vh;
+
+}
+body {
+  margin:0;
+  background-color: white;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+footer {
+  position: fixed;
+  width: 100%;
+  height: 1.2rem;
+  bottom: 0;
+  background-color: white;
+}
